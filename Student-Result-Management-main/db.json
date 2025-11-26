@@ -1,0 +1,67 @@
+{
+  "students": [
+    {
+      "name": "Tanuj Sharma",
+      "email": "tanujpandit@gmail.com",
+      "sectionId": "5f5c",
+      "enrollmentDate": "2025-11-25",
+      "id": "0cb3"
+    },
+    {
+      "id": "9cbe",
+      "name": "Aman Verma",
+      "email": "amnverma17405@gmail.com",
+      "sectionId": "c46d",
+      "enrollmentDate": "2025-11-25"
+    }
+  ],
+  "sections": [
+    {
+      "id": "5f5c",
+      "name": "G",
+      "description": "GLA 3rd year"
+    },
+    {
+      "id": "c46d",
+      "name": "N",
+      "description": "GLA 3rd year"
+    }
+  ],
+  "results": [
+    {
+      "id": "64a4",
+      "studentId": "0cb3",
+      "subject": "Full Stack",
+      "marks": 80,
+      "examDate": ""
+    },
+    {
+      "id": "8e65",
+      "studentId": "0cb3",
+      "subject": "Quant & Verbal",
+      "marks": 70,
+      "examDate": ""
+    },
+    {
+      "id": "946d",
+      "studentId": "0cb3",
+      "subject": "Agile",
+      "marks": 70,
+      "examDate": ""
+    },
+    {
+      "id": "880c",
+      "studentId": "0cb3",
+      "subject": "Maths",
+      "marks": 75,
+      "examDate": "2003-01-01"
+    },
+    {
+      "id": "d053",
+      "studentId": "0cb3",
+      "subject": "svhcgwct",
+      "marks": 54,
+      "examDate": "2005-01-01"
+    }
+  ]
+}
