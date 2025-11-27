@@ -104,7 +104,7 @@ Other supporting files include index.html, vite.config.js, images, and configura
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/mayankkmauryaa/Student-Result-Management.git
+git clone https://github.com/Tanujsharma16/Mini-Project.git
 cd student-result-system
 ```
 
@@ -190,9 +190,7 @@ The system calculates grades automatically based on marks and assigns color-code
 
 **Tanuj Sharma**
 
-- [Portfolio](https://mayankmaurya.netlify.app/)
-- [GitHub](https://github.com/mayankkmauryaa/Student-Result-Management)
-- [LinkedIn](https://www.linkedin.com/in/mayankmaurya05/)
+
 
 ---
 
