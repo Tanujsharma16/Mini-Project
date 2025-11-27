@@ -188,7 +188,7 @@ The system calculates grades automatically based on marks and assigns color-code
 
 ## 👨‍💻 Author
 
-**Mayank Maurya**
+**Tanuj Sharma**
 
 - [Portfolio](https://mayankmaurya.netlify.app/)
 - [GitHub](https://github.com/mayankkmauryaa/Student-Result-Management)
